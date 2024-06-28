@@ -1,4 +1,4 @@
-package Assignemnt_2.Q1_Person;
+package Assignment_2.Q1_Person;
 
 public class FullTime  extends  Staff{
     public FullTime(String name, String address, String phone, String email, String office, String salary, String date_hired, String title) {

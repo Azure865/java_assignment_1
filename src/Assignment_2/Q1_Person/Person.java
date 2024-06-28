@@ -1,4 +1,4 @@
-package Assignemnt_2.Q1_Person;
+package Assignment_2.Q1_Person;
 
 public class Person {
     private String name;

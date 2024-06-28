@@ -1,4 +1,4 @@
-package Assignemnt_2.Q2_Account;
+package Assignment_2.Q2_Account;
 
 public class Main {
 public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Assignemnt_2.Q4_GeometricObject;
+package Assignment_2.Q4_GeometricObject;
 
 public abstract class GeometricObject  implements Comparable<GeometricObject> {
     @Override

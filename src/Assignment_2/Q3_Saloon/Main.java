@@ -1,4 +1,4 @@
-package Assignemnt_2.Q3_Saloon;
+package Assignment_2.Q3_Saloon;
 
 public class Main {
     public static void main(String[] args) {
